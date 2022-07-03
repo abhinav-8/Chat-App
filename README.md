@@ -8,7 +8,7 @@
 # Features
   <li>Mutliple users can join and chat in a room.</li> 
   <li>Real-time communication between a client and a server using Socket.io.</li>
-  <li>You can send emoticons , features like scroll to bottom button and auto scroll on receiving a message are provided using ReactJs.</li> 
+  <li>You can send emoticons , features like scroll to bottom button and auto scroll on receiving a message are provided     using ReactJs.</li> 
    
 # Installation
 
