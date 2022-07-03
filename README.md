@@ -18,7 +18,7 @@ Make sure you have Node.js and npm install.
 
   1. Clone or Download the repository 
     <pre>git clone https://github.com/abhinav-8/Chat-App.git
-     Change [client/src/App.js/Line 6](https://github.com/abhinav-8/Chat-App/blob/0964a109b6b8fcece66cf5e5350366ba7fe633d2/client/src/App.js#L6) to "const socket = io.connect("http://localhost:3001");"</pre>
+     Change [client/src/App.js/Line 6](https://github.com/abhinav-8/Chat-App/blob/0964a109b6b8fcece66cf5e5350366ba7fe633d2/client/src/App.js#L6) to "const socket = io.connect("http://localhost:3001");" to run server locally on port 3001</pre>
   2. Install Dependencies and run server
       <pre>$cd server       
      $npm install
@@ -28,7 +28,7 @@ Make sure you have Node.js and npm install.
      $npm install
      $npm start</pre>
      
-  Application runs from localhost:3000.
+  Application runs on localhost:3000.
       
 ## How It Works
 
